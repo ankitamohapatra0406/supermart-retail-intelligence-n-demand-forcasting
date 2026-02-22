@@ -1,7 +1,7 @@
 # 🛒 Supermart Predictive Demand Forecasting + Retail Intelligence
 
 Supermart Retail Intelligence is a data analytics project focused on extracting meaningful business insights from retail sales data. The project applies exploratory data analysis (EDA), visualization techniques, and basic analytics to understand customer behavior, sales performance, and operational trends in a supermarket context. 
-
+ 
 This repository demonstrates how data-driven intelligence can support better decision-making in the retail domain.
 
 ## 📌 Project Objectives 
